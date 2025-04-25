@@ -1,0 +1,59 @@
+{
+  "name": "@magic-examples/project",
+  "version": "0.0.1",
+  "author": "Wizards & Witches @ Work",
+  "homepage": "https:/magic.github.io",
+  "license": "AGPL-3.0",
+  "description": "foundational theme for project presentation. live on https://magic.github.io",
+  "main": "src/index.mjs",
+  "module": "src/index.mjs",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=14.15.4"
+  },
+  "engineStrict": true,
+  "scripts": {
+    "start": "t -p",
+    "format": "f -w --exclude docs",
+    "test": "t --exclude docs example config.js",
+    "build": "NODE_ENV=production magic build",
+    "prod": "NODE_ENV=production magic build serve --watch src",
+    "dev": "magic dev --watch src",
+    "calls": "calls"
+  },
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magic-themes/project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/magic-themes/project/issues"
+  },
+  "dependencies": {
+    "@magic-modules/light-switch": "0.0.12",
+    "@magic-modules/no-spy": "0.0.9",
+    "@magic-modules/pre": "0.0.12",
+    "@magic-modules/theme-vars": "0.0.12",
+    "@magic-themes/project": "0.0.26",
+    "@magic/core": "0.0.150"
+  },
+  "devDependencies": {
+    "@magic/format": "0.0.51",
+    "@magic/test": "0.2.17"
+  },
+  "keywords": [
+    "magic",
+    "magic-themes",
+    "docs",
+    "hyperapp"
+  ],
+  "contributors": [
+    {
+      "name": "jascha ehrenreich",
+      "github": "jaeh"
+    }
+  ]
+}
