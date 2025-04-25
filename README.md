@@ -1,12 +1,8 @@
-## @magic-themes/project
+## @magic-examples/example
 
-## about
+This is a simple example app that show some of the [@magic](https://github.com/magic) features.
 
-this is the
-[@magic-examples](https://magic-examples.github.io)
-project page.
-
-visit the [@magic-examples](https://github.com/daresan/ttsdatasetcreator)
+visit the [@magic-examples](https://github.com/magic-examples)
 github organization to see other examples
 
 [![NPM version][npm-image]][npm-url]
@@ -16,18 +12,18 @@ github organization to see other examples
 [![Greenkeeper badge][greenkeeper-image]][greenkeeper-url]
 [![Known Vulnerabilities][snyk-image]][snyk-url]
 
-[npm-image]: https://img.shields.io/npm/v/@magic-themes/project.svg
-[npm-url]: https://www.npmjs.com/package/@magic-themes/project
-[travis-image]: https://img.shields.io/travis/com/magic-themes/project/master
-[travis-url]: https://travis-ci.com/magic-themes/project
-[appveyor-image]: https://img.shields.io/appveyor/ci/magicthemes/project/master.svg
-[appveyor-url]: https://ci.appveyor.com/project/magicthemes/project/branch/master
-[coveralls-image]: https://coveralls.io/repos/github/magic-themes/project/badge.svg
-[coveralls-url]: https://coveralls.io/github/magic-themes/project
-[greenkeeper-image]: https://badges.greenkeeper.io/magic-themes/project.svg
-[greenkeeper-url]: https://badges.greenkeeper.io/magic-themes/project.svg
-[snyk-image]: https://snyk.io/test/github/magic-themes/project/badge.svg
-[snyk-url]: https://snyk.io/test/github/magic-themes/project
+[npm-image]: https://img.shields.io/npm/v/@magic/example.svg
+[npm-url]: https://www.npmjs.com/package/@magic/example
+[travis-image]: https://api.travis-ci.com/magic/example.svg?branch=master
+[travis-url]: https://travis-ci.com/magic/example
+[appveyor-image]: https://img.shields.io/appveyor/ci/magic/example/master.svg
+[appveyor-url]: https://ci.appveyor.com/project/magic/example/branch/master
+[coveralls-image]: https://coveralls.io/repos/github/magic/example/badge.svg
+[coveralls-url]: https://coveralls.io/github/magic/example
+[greenkeeper-image]: https://badges.greenkeeper.io/magic/example.svg
+[greenkeeper-url]: https://badges.greenkeeper.io/magic/example.svg
+[snyk-image]: https://snyk.io/test/github/magic/example/badge.svg
+[snyk-url]: https://snyk.io/test/github/magic/example
 
 ### installation
 
@@ -38,7 +34,7 @@ github organization to see other examples
 
 ```
 // clone this repository
-git clone https://github.com/magic-examples/project ./your-project-name
+git clone https://github.com/magic-examples/example ./your-project-name
 
 // go to the new project directoy
 cd ./your-project-name

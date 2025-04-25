@@ -1,8 +1,8 @@
 export default {
   ROOT: 'src',
-  WEB_ROOT: '/project/',
+  WEB_ROOT: '/example/',
   PUBLIC: 'docs',
-  URL: 'magic-examples.github.io/project',
-  THEME: 'project',
+  THEME: 'example',
+  URL: 'https://magic.github.io/example',
   HOIST: ['LightSwitch', 'NoSpy'],
 }
