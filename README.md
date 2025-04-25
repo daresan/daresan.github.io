@@ -1,6 +1,6 @@
 ## @magic-examples/example
 
-This is a simple example app that show some of the [@magic](https://github.com/magic) features.
+This is a simple example app that show some of the [@magic](https://github.com/magic) features!
 
 visit the [@magic-examples](https://github.com/magic-examples)
 github organization to see other examples
