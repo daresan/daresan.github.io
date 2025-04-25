@@ -10,7 +10,7 @@ this is the
 [@magic-examples](https://magic-examples.github.io/)
 project page.
 
-visit the [@magic-examples](https://github.com/magic-examples/)
+visit the [@magic-examples](https://github.com/daresan/ttsdatasetcreator)
 github organization to see other examples
 
 ### installation
